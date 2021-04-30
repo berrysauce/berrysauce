@@ -3,9 +3,9 @@ My name is Paul and I'm a young student and hobby developer/designer from German
 
 ### About me
 
-- 🔭 I’m currently working on Python client/server applications, bots and games
-- 🌱 I’m currently learning more advanced Python and Lua
-- 👯 I’m looking to collaborate with other young developers on projects, which make the world better
+- 🔭 I’m currently working on Python client/server applications, bots, APIs, and games
+- 🌱 I’m currently learning more advanced Python and maybe later some Ruby/JavaScript
+- 👯 I’m looking to collaborate with other developers on projects, which make the world better
 - 💬 Ask me about discord.py, fastapi and general Python basics
 - 📫 How to reach me: Email or Discord (mectag#7884)
 
