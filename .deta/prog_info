@@ -1,1 +1,0 @@
-{"id":"5850ba4f-a23f-4eb7-900d-f1008813db55","space":1682,"runtime":"python3.7","name":"feeed-testing","path":"uadd2t","project":"a06vg78t","account":"144798365827","region":"eu-central-1","deps":["uvicorn","fastapi","aiofiles","deta","python-dotenv","jinja2"],"envs":["DETA_TOKEN"],"public":true,"log_level":"debug","cron":"","reload_deps":false}
