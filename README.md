@@ -8,6 +8,7 @@ My name is Paul and I'm a young student and hobby developer/designer from German
 - 🌍 I’m looking to collaborate with other developers on projects, which make the world better
 - 💬 Ask me about discord.py, fastapi and general Python basics
 - 📫 How to reach me: Email or Discord (mectag#7884)
+- 💻 I am one of the maintainers of [stopmodreposts](https://github.com/StopModReposts)
 
 ### Stats
 
