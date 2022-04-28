@@ -1,15 +1,27 @@
-## Hi there 👋
-My name is Paul and I'm a young student and hobby developer/designer from Germany.
+```
+$ berrysauce list all
 
-### About me
+├ Knowledge
+  - Python
+  - FastAPI
+  - discord.py
+  - HTML/CSS
+├ (Casually) Learning
+  - JavaScript
+  - Java
+  - Ruby
+  - Swift
+├ Projects
+  😀 reacty: A fast and privacy-friendly feedback widget
+  🧰 whatdevsneed: A curated directory of developer tools
+  🏀 Basketball: A free and self-hosted Dribbble Playbook alternative
+  🦖 trex: Template management made simple
+  📨 microletter: A micro newsletter service
+  🔒 thisday.link: Create safe, 24h short links
+├ Collaborate
+  I'm open for collaboration. Feel free to reach out!
 
-- 🔭 I’m currently working on Python client/server applications, bots, APIs, and games
-- 🌱 I’m currently learning more advanced Python and maybe later some Ruby/JavaScript
-- 🌍 I’m looking to collaborate with other developers on projects, which make the world better
-- 💬 Ask me about discord.py, fastapi and general Python basics
-- 📫 How to reach me: Email or Discord (mectag#7884)
-
-### Stats
-
+$ berrysauce get stats
+```
 [![Github stats](https://github-readme-stats.vercel.app/api?username=berrysauce&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berrysauce&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
