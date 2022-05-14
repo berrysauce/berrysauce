@@ -39,7 +39,4 @@ $ berrysauce list all
 $ berrysauce get stats
 ```
 
-<p align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=berrysauce&show_icons=true&theme=light&hide=issues">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berrysauce&layout=compact&theme=light">
-</p>
+
