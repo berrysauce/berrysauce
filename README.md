@@ -1,4 +1,17 @@
 <img src="https://cdn.berrysauce.me/assets/github-profile-banner.png" alt="Hello Banner">
+<h3 align=center>I use the following technologies</h3>
+<p align=center>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+  <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <br>
+</p>
 
 ```
 $ berrysauce list all
@@ -26,5 +39,7 @@ $ berrysauce list all
 $ berrysauce get stats
 ```
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=berrysauce&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berrysauce&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=berrysauce&show_icons=true&theme=light&hide=issues">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berrysauce&layout=compact&theme=light">
+</p>
