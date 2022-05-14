@@ -1,3 +1,5 @@
+<img src="https://cdn.berrysauce.me/assets/github-profile-banner.png" alt="Hello Banner">
+
 ```
 $ berrysauce list all
 
@@ -23,5 +25,6 @@ $ berrysauce list all
 
 $ berrysauce get stats
 ```
+
 [![Github stats](https://github-readme-stats.vercel.app/api?username=berrysauce&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berrysauce&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
