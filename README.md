@@ -1,5 +1,5 @@
 <img src="https://cdn.berrysauce.me/assets/github-profile-banner.png" alt="Hello Banner">
-<h3 align=center>I use the following technologies / services</h3>
+<h3 align=center>I use the following technologies / services / apps</h3>
 <p align=center>
   <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
