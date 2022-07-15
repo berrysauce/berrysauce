@@ -34,6 +34,7 @@ $ berrysauce list all
   - Java
   - Ruby
   - Swift
+  - Rust
 ├ Projects
   😀 reacty: A fast and privacy-friendly feedback widget
   🧰 whatdevsneed: A curated directory of developer tools
