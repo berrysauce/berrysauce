@@ -36,12 +36,9 @@ $ berrysauce list all
   - Swift
   - Rust
 ├ Projects
-  😀 reacty: A fast and privacy-friendly feedback widget
   🧰 whatdevsneed: A curated directory of developer tools
   🏀 Basketball: A free and self-hosted Dribbble Playbook alternative
   🦖 trex: Template management made simple
-  📨 microletter: A micro newsletter service
-  🔒 thisday.link: Create safe, 24h short links
 ├ Collaborate
   I'm open for collaboration. Feel free to reach out!
 ```
