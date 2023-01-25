@@ -1,46 +1,17 @@
-<img src="https://cdn.berrysauce.me/assets/github-profile-banner.png" alt="Hello Banner">
-<h3 align=center>I use the following technologies / services / apps</h3>
-<p align=center>
-  <img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white">
-  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
-  <img src="https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow">
-  <br>
-</p>
+# Paul Haedrich
+### Student, developer, loves doggos 🐶
 
-```
-$ berrysauce list all
+⤷ Hey 👋 my name is Paul, and I'm a student from Germany. I code in my free time to create open source web-apps and microservices (APIs). I'm open to collab on new projects, so if you have an interesting idea that roughly fits my tech stack, feel free to say hello!
 
-├ Knowledge
-  - Python
-  - FastAPI
-  - discord.py
-  - HTML/CSS
-├ (Casually) Learning
-  - JavaScript
-  - Java
-  - Ruby
-  - Swift
-  - Rust
-├ Projects
-  🧰 whatdevsneed: A curated directory of developer tools
-  🏀 Basketball: A free and self-hosted Dribbble Playbook alternative
-  🦖 trex: Template management made simple
-├ Collaborate
-  I'm open for collaboration. Feel free to reach out!
-```
+ <a aligh="left" href="https://berrysauce.me" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:hello@berrysauce.me" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a>  
+
+⚐ Based in Germany
+
+ϟ Currently building open source web-apps and microservices
 
 
+
+ ## Skills*
+   <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.python.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/python.svg" alt="Python" width="25" height="25" /></a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/ruby.svg" alt="Ruby" width="25" height="25" /></a> <a href="https://www.apple.com/swift/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/swift.svg" alt="Swift" width="25" height="25" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="http://svelte.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/svelte.svg" alt="Svelte" width="25" height="25" /></a> <a href="http://tailwindcss.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind" width="25" height="25" /></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/bootstrap.svg" alt="Bootstrap" width="25" height="25" /></a> <a href="http://vitejs.dev/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/vite.svg" alt="Vite" width="25" height="25" /></a>  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mongodb.svg" alt="Mongo DB" width="25" height="25" /></a> <a href="http://planetscale.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/planetscale.svg" alt="PlanetScale" width="25" height="25" /></a> 
+
+<sub>*I'm still learning some of these – so please don't expect too much!</sub>
