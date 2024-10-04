@@ -1,12 +1,8 @@
-⤷ Hey 👋 my name is Paul, and I'm a student from Germany. I code at work and in my free time and mostly create open source web-apps and microservices (APIs). I'm open to collab on new projects, so if you have an interesting idea that roughly fits my tech stack, feel free to say hello (I'm also happy to experiment with new tech)!
+⤷ Hey 👋 my name is Paul. I'm a computer science student and developer from Germany. I code at work and in my free time and mostly create open source web-apps and microservices (APIs). I'm open to collab on new projects, so if you have an interesting idea that roughly fits my tech stack, feel free to say hello (I'm also happy to experiment with new tech)!
 
  <a aligh="left" href="https://berrysauce.me" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:hello@berrysauce.me" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a>  
 
-⚐ Based in Germany
-
-ϟ Currently building open source web-apps, microservices, and packages
-
-
+🇩🇪🇪🇺 Based in Germany
 
  ## Skills
  <a href="https://www.python.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/python.svg" alt="Python" width="25" height="25" /></a> <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/ruby.svg" alt="Ruby" width="25" height="25" /></a> <a href="" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/go.svg" alt="Go" width="25" height="25" /></a> <a href="https://www.php.net" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/php.svg" alt="PHP" width="25" height="25" /></a> <a href="https://www.apple.com/swift/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/swift.svg" alt="Swift" width="25" height="25" /></a> 
